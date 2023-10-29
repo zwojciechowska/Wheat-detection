@@ -1,0 +1,16 @@
+apex
+dataset
+output_test_2021
+scratches
+test_2021
+yolo_configs
+yolo_results
+yolov5
+global-wheat-detection.zip
+kaggle.json
+Poprawa_nazw_zmiennych_Wheat_detection.ipynb
+requirements.txt
+yolov5m.pt
+yolov5s.pt
+yolov5x.pt
+models
